@@ -1,4 +1,3 @@
-package Java.module_1;
 
 public class FirstProgramme {
     public static void main(String[] args) {

@@ -1,5 +1,3 @@
-package Java.module_1;
-
 class Hello {
     // 1.2 Structure d'un programme
     // public static void main(String[] args) {
